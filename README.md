@@ -45,5 +45,5 @@ stramlit run app.py
 SIDDHARTH RAGHUNATHA SHETTY
 
 ## CONTACT ME :
- My [Linked in](www.linkedin.com/in/siddharth-shetty-657797283)    or    [E-mail](siddharthshetty2032005@gmail.com) 
+ My [Linked in](www.linkedin.com/in/siddharth-shetty-657797283)    or    E-mail :
  siddharthshetty2032005@gmail.com

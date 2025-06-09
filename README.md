@@ -41,4 +41,6 @@ pip install -r requirements.txt
 4.**Run the app**:
 stramlit run app.py
 
+# CREATED BY 
+SIDDHARTH RAGHUNATHA SHETTY
 

@@ -44,5 +44,5 @@ stramlit run app.py
 # CREATED BY 
 SIDDHARTH RAGHUNATHA SHETTY
 
-## CONTACT 
- [Linked in](www.linkedin.com/in/siddharth-shetty-657797283)
+## CONTACT ME
+ My [Linked in](www.linkedin.com/in/siddharth-shetty-657797283)
